@@ -13,7 +13,7 @@ I'm a Computer Science undergrad at UMass Amherst, passionate about building dat
 
 ## 🚀 Check Out My Latest Project!
 
-### 📈 [Stock Volatility Predictor](https://github.com/aditikhodke/stock-volatility-predictor)
+### 📈 [Stock Volatility Predictor](https://github.com/aditikhodke/stock-volatility-prediction)
 
 This tool analyzes historical stock data to predict stock volatility by leveraging historical price data and sentiment analysis from news headlines.
 
