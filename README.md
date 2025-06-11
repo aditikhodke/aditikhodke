@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aditi Khodke!
 
-
+![](https://komarev.com/ghpvc/?username=aditikhodke)
 
 I'm a Computer Science undergrad at UMass Amherst, passionate about building data-driven tools and making sense of complex information. I'm still learning and exploring. Feel free to reach out if you find something interesting or want to have a chat!
 
